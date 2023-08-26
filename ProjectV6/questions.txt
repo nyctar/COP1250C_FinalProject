@@ -1,0 +1,70 @@
+1.) What is the difference between Java source code and byte code?
+a.) Programmers write byte code while compilers process source code.
+b.) Programmers write source code while virtual machines execute byte code.
+c.) Programmers write source code, and there is no such thing as byte code.
+d.) There is no difference.
+B
+2
+2.) Considering the level of precedence for Java operators, what would be the output of 1 + 12/2 + 4 ?
+a.) 3
+b.) There is no output.
+c.) 2.17
+d.) 11
+D
+1
+3.) What do you call an embedded command that starts with a backslash character and is followed by one or more control characters?
+a.) Escape Sequence
+b.) Output Cursor
+c.) Scanner
+d.) Programming Statement
+A
+2
+4.) What is the function of logical operators?
+a.) It determines if a relationship exists between two values
+b.) It is another name for arithmetic operators
+c.) It determines if the statement is logically correct
+d.) It combines two boolean expressions
+D
+1
+5.) Select the assigned value for x in this example: x = y < 10 && z < 40 ? 10 : y < 20 && z == 40 ? 20 : y < 10 && z > 40 ? 30 : 40 | Suppose that y = 11 and z = 30
+a.) 20
+b.) 10
+c.) 40
+d.) 30
+C
+3
+6.) A loop is a control structure that causes a programming statement to repeat. What is the key difference between while loop and do-while loop?
+a.) The while loop tests its expression before each iteration and the do-while loop is a posttest loop
+b.) The while loop is a pretest loop and the do-while loop is an actual test loop
+c.) The do-while loop is just another version of while loop
+d.) The while loop is an actual test loop and the do-while loop is a posttest loop
+A
+2
+7.) There are many ways to add or subtract 1 from an operand. Assume variable number is an int. Select the choice that does not work.
+a.) number++
+b.) number - 1 = number
+c.) number -= 1
+d.) number = number + 1
+B
+1
+8.) What does it mean if “void” is used as a return type for a certain method?
+a.) it performs a task and terminates.
+b.) it is an error that shows up if a body of a method is not closed with a curly bracket.
+c.) it returns a special value named void.
+d.) it will return a value if called.
+A
+1
+9.) What happens if a String array has an uninitialized String reference?
+a.) The code will not compile, and an error will show in the console.
+b.) The code will compile and throw and exception, but it will show an error when it reads the uninitialized String reference.
+c.) The object it references to will be set to null.
+d.) The object it references to will be set to 0.
+C
+1
+10.) What algorithm works to get the average of the values in an array?
+a.) There is a method called .getAve() method that can average the elements of an array.
+b.) A do-while loop can get all the values and add them to an accumulator variable and divide the it by using the .index() method. 
+c.) There is a method called .getAverage() method that can average the elements of an array.
+d.) A for loop can get all the values and add them to an accumulator variable, then divide them by the number of the elements in the array.
+D
+2
